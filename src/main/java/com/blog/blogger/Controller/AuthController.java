@@ -89,6 +89,7 @@ public class AuthController {
 
     }
     public void test(){
+    }
         
 }
 
